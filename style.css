@@ -1,0 +1,14 @@
+#container_app{
+width: 350px;
+text-align: center;
+margin: auto;
+margin-top: 20%;
+
+border: 1px solid black;
+}
+#box_app{
+
+}
+#box_app button{
+	width: 100px;
+}
